@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![284080257-6c98db9e-fb9c-4ac1-93f1-71117b6c58f7](https://github.com/KesavDeepak/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139336019/bdc9ded8-2811-4454-82fe-e5eed2ab2280)
 
 ### Output:
+![284080286-041d65c6-a3ef-41ac-b7c2-c12195fe96af](https://github.com/KesavDeepak/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139336019/336f4cc1-0776-4c4b-b77f-148f61286512)
 
 
-### Name:
-### Register Number:
+### Name: KESAV DEEPAK SRIDHARAN
+### Register Number: 23002011
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
