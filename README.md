@@ -31,9 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![download (2)](https://github.com/KesavDeepak/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139336019/f260351a-fff1-4b18-941b-df5e92ab717c)
+
+![Screenshot 2023-12-16 161629](https://github.com/KesavDeepak/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139336019/ede975a4-dc85-412f-974e-b77e0a4ddefa)
 
 
 ### Output:
+![Screenshot 2023-12-16 162229](https://github.com/KesavDeepak/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139336019/ad29b75f-8676-4345-9947-920aab494518)
 
 
 ### Name: KESAV DEEPAK SRIDHARAN
